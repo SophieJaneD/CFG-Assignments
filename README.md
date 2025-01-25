@@ -5,12 +5,14 @@
 ## <ins> About Me </ins>
 
 **Name:** Sophie Dornan
+
 **Age:** 30
+
 **Favorite programming language:** Javascript
 
 ## <ins> Previous Studies </ins>
 
-I haven't completed any previous CGF projects, however I studied a few modules with Open University and some key projecs I worked on there are as follows:
+I haven't completed any previous CGF projects, however I studied a few modules with Open University and some key projects I worked on there are as follows:
 
  - Battleships Game
  - Drawing and animating polygons
