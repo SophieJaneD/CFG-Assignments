@@ -39,4 +39,11 @@ Adding a file to a branch and adding a commit with a meaningful message
 ![Picture illustrating adding a file to branch and adding a commit with a meaningful message.](Adding-file-to-branch-and-adding-commit-with-meaningful-message.jpg)
 
 
+# Git Ignore
+
+A .gitignore file dictates which files or directories it should ignore and not track. This has a few applications:
+
+- Hiding sensitive or private information
+
+- Excluding large or irrelevant files
 
