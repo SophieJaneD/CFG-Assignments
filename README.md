@@ -47,3 +47,7 @@ A .gitignore file dictates which files or directories it should ignore and not t
 
 - Excluding large or irrelevant files
 
+
+# Requirements.txt file
+
+A requirements.txt file is used to list the dependencies, external libraries and packages, that the project needs to run. This file allows easy sharing of project requirements and ensures users or other prgrammers can set up the same environment.
