@@ -51,3 +51,7 @@ A .gitignore file dictates which files or directories it should ignore and not t
 # Requirements.txt file
 
 A requirements.txt file is used to list the dependencies, external libraries and packages, that the project needs to run. This file allows easy sharing of project requirements and ensures users or other prgrammers can set up the same environment.
+
+# Opening a pull request and Merging and deploying to main branch
+
+I am unsure how to evidence this part as it is the final step when finalizing my work for submission. I start by pushing my work to the repository. When I open pull requests on Github I find there are changes avaialble to merge.  I add a title and a description of the changes I have made.  I can compare the changes to merge the branches and when I am in the pull request I see that the branches are ableto be automatically merged.
