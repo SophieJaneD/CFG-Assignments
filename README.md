@@ -24,3 +24,19 @@ I haven't completed any previous CGF projects, however I studied a few modules w
 ## <ins> Github and Assignment 1 </ins>
 
  In this assignment I will be using Github to upload my project for my tutor, Frederick to mark.
+
+# Picture 1
+
+Checking status and creating a branch
+
+![Picture illustrating checking status and creating a branch.](checking%20status%20and%20creating%20branch.jpg)
+
+
+# Picture 2
+
+Adding a file to a branch and adding a commit with a meaningful message
+
+![Picture illustrating adding a file to branch and adding a commit with a meaningful message.](Adding-file-to-branch-and-adding-commit-with-meaningful-message.jpg)
+
+
+
