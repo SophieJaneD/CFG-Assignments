@@ -1,0 +1,28 @@
+body {
+
+background-color:rgba(204, 168, 241, 0.8);
+font-family:Arial, sans-serif;
+margin:20;
+font-size:2rem;
+}
+
+h1 {
+
+    font-size: 50px;
+    font-family: Verdana;
+    color:aquamarine;
+}
+
+h3 {
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+    font-style:italic;
+}
+
+.welcome {
+
+    color: magenta;
+    font-weight: bold;
+
+}

@@ -1,0 +1,58 @@
+
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> 
+        <meta charset="UTF-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <title>Document</title> 
+    </head> 
+    
+    <body> 
+        <h1 id="greet">Sophie's Bunny Snacks Emporium</h1>
+        <p>&#128048; Treat your furry friends to the finest organic produce &#128048; </p>
+        <h3> All locally sourced and quality tested to the highest standards </h3>
+        <h3>Free delivery on orders over £10 </h3>
+        
+        <div id="message">Hello 👋 Thank you for visiting the emporium &#127970; </div>
+    
+        <p class="welcome"> Forage Pick 'n' Mix </p>
+        <div class = "welcome" > All forage £2.00 per 100g</div>
+
+
+        <h3>Weekly Specials</h3>
+        <button onclick="displayForages()">Show forage types</button> <!-- Button to show forage list -->
+        <ul id="forage-list"></ul>
+    
+       
+    
+        <p id="question1">What forage would your bunnies like to order? &#128048;</p>
+        <p class="welcome"> Type your order below and press enter to add to your basket.  Enter done when ready to checkout</p>
+        <div class="welcome">Thanks for your buns-iness &#128048; </div>
+        
+        <input type="text" id="answer1" placeholder="Enter the item you wish to order">
+        <button onclick="checkAnswer()">Submit</button>
+    
+        <p id="result"></p>
+
+         <!-- Yes/No question container -->
+    <div id="yes-no-container" style="display: none;">
+        <p id="question2">Would you like to donate £1 to local rabbit rescue charities?</p>
+        <button onclick="handleYes()">Yes</button>
+        <button onclick="handleNo()">No</button>
+    </div>
+
+
+    <div id="postage-calculator" style="display: none;">
+        <p id="question3"> Calculate Postage</p>
+        <button onclick="calculatePostage()">Calculate Postage</button>
+        
+    </div>
+
+    <!-- Container to display shopping basket items -->
+<h3>Your Shopping Basket</h3>
+<ul id="shopping-basket-list"></ul>
+    
+        <script src="part1.js"></script> <!-- Ensure this script is correctly linked -->
+
+    </body>
