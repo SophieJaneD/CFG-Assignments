@@ -1,0 +1,18 @@
+Question 2 
+
+2.1. 
+unshift(): Adds one or more elements to the beginning of an array. Example:  Say CFG has a new student in the class.  Using unshift we could add her name to the beginning of the class register.
+
+shift(): Removes the first element from an array and length is decreased by one.  Example: Alternatively suppose our top student drops out!  We can use shift to remove her name if it is first in the list.
+
+split(): Splits a string into an array of substrings based on a specified character such as “ “.  Example: We want to analyse interactions across CFG streams between students to find commonly used language.  Sentences students have sent can be split by word into strings and added to a list to be analysed.
+
+2.2. 
+Object methods are functions that belong to an object and are used to alter or get information from the object. They allow objects to perform specific actions and can access or modify the object's properties.   An object that represents different programming languages and has methods that perform actions related to them such as retrieving details about a language.
+
+2.3.
+
+onmouseover event: Triggered when mouse pointer hovers over an element. It is commonly used to change styles, display tooltips, and trigger animations.
+
+onclick event: Triggered when an element is clicked. Often used to carry out functions in response to user interactions, such as submitting a form or pressing a button.
+keydown event: Triggered when a key is pressed on the keyboard. Useful for shortcuts.
