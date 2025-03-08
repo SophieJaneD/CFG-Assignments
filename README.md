@@ -54,4 +54,4 @@ A requirements.txt file is used to list the dependencies, external libraries and
 
 # Opening a pull request and Merging and deploying to main branch
 
-I am unsure how to evidence this part as it is the final step when finalizing my work for submission. I start by pushing my work to the repository. When I open pull requests on Github I find there are changes avaialble to merge.  I add a title and a description of the changes I have made.  I can compare the changes to merge the branches and when I am in the pull request I see that the branches are ableto be automatically merged.
+I am unsure how to evidence this part as it is the final step when finalizing my work for submission. I start by pushing my work to the repository. When I open pull requests on Github I find there are changes avaialble to merge.  I add a title and a description of the changes I have made.  I can compare the changes to merge the branches and when I am in the pull request I see that the branches are ableto be automatically merged.  
